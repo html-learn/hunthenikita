@@ -7,7 +7,7 @@ const cardObjectDefinitions = [
 ]
 const aceId = 4
 
-const cardBackImgPath = '/images/card-back-Blue.PNG'
+const cardBackImgPath = './images/card-back-Blue.PNG'
 
 let cards = []
 
