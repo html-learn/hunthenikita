@@ -1,9 +1,9 @@
 
 const cardObjectDefinitions = [
-    {id:1, imagePath:'/images/card-KingHearts.png'},
-    {id:2, imagePath:'/images/card-JackClubs.png'},
-    {id:3, imagePath:'/images/card-QueenDiamonds.png'},
-    {id:4, imagePath:'/images/card-AceSpades.png'}
+    {id:1, imagePath:'/images/card-KingHearts.PNG'},
+    {id:2, imagePath:'/images/card-JackClubs.PNG'},
+    {id:3, imagePath:'/images/card-QueenDiamonds.PNG'},
+    {id:4, imagePath:'/images/card-AceSpades.PNG'}
 ]
 const aceId = 4
 
